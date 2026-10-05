@@ -1,0 +1,6 @@
+libvpx: true
+a coded frame for each picture: true
+keyframes: [0, 15]
+a second of them within twice the rate: true
+each decodes near its picture: true
+a fresh decoder: a frame between does not decode | from the keyframe on: true
